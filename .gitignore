@@ -1,0 +1,5 @@
+# ignore .numbers and excel files,
+    *.numbers
+    *.xlsm
+    *.xlsx
+    *.xls
