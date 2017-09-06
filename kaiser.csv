@@ -9,11 +9,11 @@ KP CO Gold 1000/20,Gold,0.798,Renewing,HMO,Yes,399.44,3130
 KP CO Gold 1000/20,Gold,0.798,Renewing,HMO,Yes,399.44,524
 KP CO Gold 1000/20,Gold,0.798,Renewing,HMO,Yes,399.44,303
 KP Select CO Gold 1000/20,Gold,0.798,Renewing,HMO,Yes,363.41,1646
-KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,0.0,0
-KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,0.0,0
-KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,0.0,0
-KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,0.0,0
-KP Select CO Gold 1500/20,Gold,0.761,New,HMO,Yes,0.0,0
+KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,380,25
+KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,380,25
+KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,380,25
+KP CO Gold 1500/20,Gold,0.761,New,HMO,Yes,380,25
+KP Select CO Gold 1500/20,Gold,0.761,New,HMO,Yes,343,100
 KP CO Silver 2000/25,Silver,0.72,Renewing,HMO,Yes,351.98,58752
 KP CO Silver 2000/25,Silver,0.72,Renewing,HMO,Yes,351.98,10206
 KP CO Silver 2000/25,Silver,0.72,Renewing,HMO,Yes,351.98,1604
@@ -29,11 +29,11 @@ KP CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,Yes,331.33,15024
 KP CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,Yes,331.33,2638
 KP CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,Yes,331.33,2559
 KP Select CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,Yes,301.45,7177
-KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,0.0,0
-KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,0.0,0
-KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,0.0,0
-KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,0.0,0
-KP Select CO Silver 4500/30,Silver,0.686,New,HMO,Yes,0.0,0
+KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,340,25
+KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,340,25
+KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,340,25
+KP CO Silver 4500/30,Silver,0.686,New,HMO,Yes,340,25
+KP Select CO Silver 4500/30,Silver,0.686,New,HMO,Yes,307,100
 KP CO Bronze 5250/40,Bronze,0.615,Renewing,HMO,Yes,296.17,18016
 KP CO Bronze 5250/40,Bronze,0.615,Renewing,HMO,Yes,296.17,3699
 KP CO Bronze 5250/40,Bronze,0.615,Renewing,HMO,Yes,296.17,761
@@ -54,10 +54,10 @@ KP CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,Yes,278.16,7342
 KP CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,Yes,278.16,904
 KP CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,Yes,278.16,3270
 KP Select CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,Yes,253.11,4068
-KP CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,Yes,259.7,4682
-KP CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,Yes,259.7,1528
-KP CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,Yes,259.7,0
-KP Select CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,Yes,259.7,181
+KP CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,Yes,259.7,4682
+KP CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,Yes,259.7,1528
+KP CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,Yes,259.7,100
+KP Select CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,Yes,259.7,181
 KP Select CO Catastrophic,Catastrophic,0.61,Renewing,HMO,Yes,236.41,215
 KP CO Gold 0/20,Gold,0.812,Renewing,HMO,No,420.97,77685
 KP CO Gold 0/20,Gold,0.812,Renewing,HMO,No,420.97,6909
@@ -69,11 +69,11 @@ KP CO Gold 1000/20,Gold,0.798,Renewing,HMO,No,399.44,3636
 KP CO Gold 1000/20,Gold,0.798,Renewing,HMO,No,399.44,302
 KP CO Gold 1000/20,Gold,0.798,Renewing,HMO,No,399.44,69
 KP Select CO Gold 1000/20,Gold,0.798,Renewing,HMO,No,363.41,2642
-KP CO Gold 1500/20,Gold,0.761,New,HMO,No,0.0,0
-KP CO Gold 1500/20,Gold,0.761,New,HMO,No,0.0,0
-KP CO Gold 1500/20,Gold,0.761,New,HMO,No,0.0,0
-KP CO Gold 1500/20,Gold,0.761,New,HMO,No,0.0,0
-KP Select CO Gold 1500/20,Gold,0.761,New,HMO,No,0.0,0
+KP CO Gold 1500/20,Gold,0.761,New,HMO,No,380,25
+KP CO Gold 1500/20,Gold,0.761,New,HMO,No,380,25
+KP CO Gold 1500/20,Gold,0.761,New,HMO,No,380,25
+KP CO Gold 1500/20,Gold,0.761,New,HMO,No,380,25
+KP Select CO Gold 1500/20,Gold,0.761,New,HMO,No,343,100
 KP CO Silver 2000/25,Silver,0.72,Renewing,HMO,No,351.98,60971
 KP CO Silver 2000/25,Silver,0.72,Renewing,HMO,No,351.98,7416
 KP CO Silver 2000/25,Silver,0.72,Renewing,HMO,No,351.98,470
@@ -89,11 +89,11 @@ KP CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,No,331.33,4713
 KP CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,No,331.33,270
 KP CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,No,331.33,325
 KP Select CO Silver 2750/20Percent/HSA,Silver,0.7,Renewing,HMO,No,301.45,1868
-KP CO Silver 4500/30,Silver,0.686,New,HMO,No,0.0,0
-KP CO Silver 4500/30,Silver,0.686,New,HMO,No,0.0,0
-KP CO Silver 4500/30,Silver,0.686,New,HMO,No,0.0,0
-KP CO Silver 4500/30,Silver,0.686,New,HMO,No,0.0,0
-KP Select CO Silver 4500/30,Silver,0.686,New,HMO,No,0.0,0
+KP CO Silver 4500/30,Silver,0.686,New,HMO,No,340,25
+KP CO Silver 4500/30,Silver,0.686,New,HMO,No,340,25
+KP CO Silver 4500/30,Silver,0.686,New,HMO,No,340,25
+KP CO Silver 4500/30,Silver,0.686,New,HMO,No,340,25
+KP Select CO Silver 4500/30,Silver,0.686,New,HMO,No,307,100
 KP CO Bronze 5250/40,Bronze,0.615,Renewing,HMO,No,296.17,26227
 KP CO Bronze 5250/40,Bronze,0.615,Renewing,HMO,No,296.17,3568
 KP CO Bronze 5250/40,Bronze,0.615,Renewing,HMO,No,296.17,163
@@ -114,8 +114,8 @@ KP CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,No,278.16,5693
 KP CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,No,278.16,362
 KP CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,No,278.16,1014
 KP Select CO Bronze 6500/50,Bronze,0.603,Renewing,HMO,No,253.11,3369
-KP CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,No,259.7,8947
-KP CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,No,259.7,2378
-KP CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,No,259.7,85
-KP CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,No,259.7,131
-KP Select CO Bronze 4500/50/HSA,Catastrophic,0.61,Renewing,HMO,No,236.41,521
+KP CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,No,259.7,8947
+KP CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,No,259.7,2378
+KP CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,No,259.7,85
+KP CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,No,259.7,131
+KP Select CO Bronze 4500/50/HSA,Bronze,0.61,Renewing,HMO,No,236.41,521

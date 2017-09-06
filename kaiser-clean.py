@@ -1,3 +1,4 @@
+### CURRENTLY WORKS ON EXISTIG 'kaiser.csv' 9/6/17
 import pandas as pd
 
 ### FIRST, REMOVE EXTRA ROWS AND COLUMNS IN NUMBERS AND EXPORT TO CSV ###
@@ -23,6 +24,10 @@ df = pd.read_csv('kaiser.csv')
 # separate ON and OFF exchange
 df_on = df[df.Exchange == 'Yes']
 df_off = df[df.Exchange == 'No']
+
+# round AV column to 3 decimal places
+df_on['AV'] = df_on.loc[:,'AV'].round(3)
+df_off['AV'] = df_off.loc[:,'AV'].round(3)
 
 # remove "Exchange" column
 del df_on['Exchange']
@@ -53,4 +58,4 @@ df_on_grouped.to_csv('kaiser_on.csv', index=False, encoding='utf8')
 df_off_grouped.to_csv('kaiser_off.csv', index=False, encoding='utf8')
 
 # Combine into single dataframe for plotting
-df = df_on_grouped.append(df_off_grouped, ignore_index=True)
+df = kp_on_grouped.append(kp_off_grouped)
