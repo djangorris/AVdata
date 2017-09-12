@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 import matplotlib.patches as mpatches
 from matplotlib import style
+import numpy as np
 
 style.use('fivethirtyeight')
 np_members = np.array(df.Member_Months * .01)

@@ -1,0 +1,8 @@
+Plan Name,Cigna Vantage HSA Bronze 5500,Cigna Vantage Flex Bronze 6400,Cigna Vantage HSA Silver 2700,Cigna Vantage Flex Silver 3500,Cigna Vantage Flex Silver 2500,Cigna Vantage Flex Gold 1300,Cigna Connect HSA Bronze 5500,Cigna Connect Flex Bronze 6400,Cigna Connect HSA Silver 3000,Cigna Connect Flex Silver 4000,Cigna Connect Flex Silver 2000,Cigna Connect Flex Gold 1300,Cigna Connect Flex Bronze 6700,Cigna Connect Flex Silver 3000,Cigna Connect Flex Silver 2500,Cigna Vantage Flex Bronze 6700,Cigna Connect Flex Silver 3500,Cigna Connect Flex Silver 4000
+Metal:,Bronze,Bronze,Silver,Silver,Silver,Gold,Bronze,Bronze,Silver,Silver,Silver,Gold,Bronze,Silver,Silver,Bronze,Silver,Silver
+AV Metal Value,0.618,0.612,0.681,0.681,0.688,0.780,0.607,0.614,0.682,0.685,0.711,0.780,0.603,0.692,0.688,0.620,0.689,0.687
+Plan Category,Terminated,Terminated,Terminated,Terminated,Terminated,Terminated,Renewing,Renewing,Terminated,Terminated,Terminated,Renewing,Renewing,Terminated,Renewing,Terminated,Renewing,New
+Plan Type:,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO,EPO
+Exchange Plan?,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes
+Plan Adjusted Index Rate,$325.71,$349.42,$384.12,$397.48,$420.12,$488.36,$292.73,$302.63,$347.14,$363.97,$387.14,$434.93,$0.00,$0.00,$0.00,$0.00,$0.00,$0.00
+Member Months,"50,576","15,863","18,944","36,999","34,093","6,419","62,357","36,062","18,619","27,128","24,685","5,283",0,0,0,0,0,0
