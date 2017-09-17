@@ -1,12 +1,12 @@
-Plan_Name,Metal,AV,Category,Network,Plan_Adjusted_Index_Rate,Member_Months
-Cigna Connect Flex Silver 2000,Silver,0.711,Terminated,EPO,387.14,24685
-Cigna Connect Flex Silver 3000,Silver,0.692,Terminated,EPO,0.0,0
-Cigna Connect Flex Silver 4000,Silver,0.685,Terminated,EPO,363.97,27128
-Cigna Connect HSA Silver 3000,Silver,0.682,Terminated,EPO,347.14,18619
-Cigna Vantage Flex Bronze 6400,Bronze,0.612,Terminated,EPO,349.42,15863
-Cigna Vantage Flex Bronze 6700,Bronze,0.62,Terminated,EPO,0.0,0
-Cigna Vantage Flex Gold 1300,Gold,0.78,Terminated,EPO,488.36,6419
-Cigna Vantage Flex Silver 2500,Silver,0.688,Terminated,EPO,420.12,34093
-Cigna Vantage Flex Silver 3500,Silver,0.681,Terminated,EPO,397.48,36999
-Cigna Vantage HSA Bronze 5500,Bronze,0.618,Terminated,EPO,325.71,50576
-Cigna Vantage HSA Silver 2700,Silver,0.681,Terminated,EPO,384.12,18944
+Plan_Name,Metal,AV,Category,Network,Exchange,Plan_Adjusted_Index_Rate,Member_Months
+Cigna Connect Flex Silver 2000,Silver,0.711,Terminated,EPO,No,387.14,24685
+Cigna Connect Flex Silver 3000,Silver,0.692,Terminated,EPO,No,400.0,100
+Cigna Connect Flex Silver 4000,Silver,0.685,Terminated,EPO,No,363.97,27128
+Cigna Connect HSA Silver 3000,Silver,0.682,Terminated,EPO,No,347.14,18619
+Cigna Vantage Flex Bronze 6400,Bronze,0.612,Terminated,EPO,No,349.42,15863
+Cigna Vantage Flex Bronze 6700,Bronze,0.62,Terminated,EPO,No,400.0,100
+Cigna Vantage Flex Gold 1300,Gold,0.78,Terminated,EPO,No,488.36,6419
+Cigna Vantage Flex Silver 2500,Silver,0.688,Terminated,EPO,No,420.12,34093
+Cigna Vantage Flex Silver 3500,Silver,0.681,Terminated,EPO,No,397.48,36999
+Cigna Vantage HSA Bronze 5500,Bronze,0.618,Terminated,EPO,No,325.71,50576
+Cigna Vantage HSA Silver 2700,Silver,0.681,Terminated,EPO,No,384.12,18944

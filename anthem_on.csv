@@ -1,20 +1,20 @@
-Plan_Name,Metal,AV,Category,Network,Plan_Adjusted_Index_Rate,Member_Months
-Anthem Bronze Mountain Enhanced X HMO 5000,Bronze,0.614,Renewing,HMO,319.59,27289
-Anthem Bronze Mountain Enhanced X HMO 5000 for HSA,Bronze,0.614,New,HMO,0.0,0
-Anthem Bronze Mountain Enhanced X HMO 6300 for HSA,Bronze,0.607,New,HMO,0.0,0
-Anthem Bronze Pathway X HMO 5000,Bronze,0.614,Renewing,HMO,347.31,95438
-Anthem Bronze Pathway X HMO 5000 for HSA,Bronze,0.614,Renewing,HMO,363.89,20218
-Anthem Bronze Pathway X HMO 5400,Bronze,0.641,Renewing,HMO,373.64,11523
-Anthem Bronze Pathway X HMO 5800,Bronze,0.61,Renewing,HMO,348.79,39882
-Anthem Bronze Pathway X HMO 6300 for HSA,Bronze,0.607,Renewing,HMO,361.89,49232
-Anthem Catastrophic Pathway X HMO 7350,Catastrophic,0.606,Renewing,HMO,276.73,28864
-Anthem Gold Mountain Enhanced X HMO 1100,Gold,0.761,New,HMO,0.0,0
-Anthem Gold Pathway X HMO 1100,Gold,0.761,New,HMO,0.0,0
-Anthem Silver Core Mountain Enhanced X HMO 5300,Silver,0.682,Renewing,HMO,0.0,0
-Anthem Silver Core Pathway X HMO 5300,Silver,0.682,Renewing,HMO,0.0,0
-Anthem Silver Mountain Enhanced X HMO 2000,Silver,0.713,Renewing,HMO,421.71,4470
-Anthem Silver Pathway X HMO 1650,Silver,0.718,Renewing,HMO,490.54,5513
-Anthem Silver Pathway X HMO 2000,Silver,0.713,Renewing,HMO,458.3,22020
-Anthem Silver Pathway X HMO 2500,Silver,0.718,Renewing,HMO,470.3,7926
-Anthem Silver Pathway X HMO 5150,Silver,0.681,New,HMO,0.0,0
-Anthem Silver Pathway X HMO 5750,Silver,0.681,New,HMO,0.0,0
+Plan_Name,Metal,AV,Category,Network,Exchange,Plan_Adjusted_Index_Rate,Member_Months
+Anthem Bronze Mountain Enhanced X HMO 5000,Bronze,0.614,Renewing,HMO,Yes,319.59,27289
+Anthem Bronze Mountain Enhanced X HMO 5000 for HSA,Bronze,0.614,New,HMO,Yes,0.0,0
+Anthem Bronze Mountain Enhanced X HMO 6300 for HSA,Bronze,0.607,New,HMO,Yes,0.0,0
+Anthem Bronze Pathway X HMO 5000,Bronze,0.614,Renewing,HMO,Yes,347.31,95438
+Anthem Bronze Pathway X HMO 5000 for HSA,Bronze,0.614,Renewing,HMO,Yes,363.89,20218
+Anthem Bronze Pathway X HMO 5400,Bronze,0.641,Renewing,HMO,Yes,373.64,11523
+Anthem Bronze Pathway X HMO 5800,Bronze,0.61,Renewing,HMO,Yes,348.79,39882
+Anthem Bronze Pathway X HMO 6300 for HSA,Bronze,0.607,Renewing,HMO,Yes,361.89,49232
+Anthem Catastrophic Pathway X HMO 7350,Catastrophic,0.606,Renewing,HMO,Yes,276.73,28864
+Anthem Gold Mountain Enhanced X HMO 1100,Gold,0.761,New,HMO,Yes,0.0,0
+Anthem Gold Pathway X HMO 1100,Gold,0.761,New,HMO,Yes,0.0,0
+Anthem Silver Core Mountain Enhanced X HMO 5300,Silver,0.682,Renewing,HMO,Yes,0.0,0
+Anthem Silver Core Pathway X HMO 5300,Silver,0.682,Renewing,HMO,Yes,0.0,0
+Anthem Silver Mountain Enhanced X HMO 2000,Silver,0.713,Renewing,HMO,Yes,421.71,4470
+Anthem Silver Pathway X HMO 1650,Silver,0.718,Renewing,HMO,Yes,490.54,5513
+Anthem Silver Pathway X HMO 2000,Silver,0.713,Renewing,HMO,Yes,458.3,22020
+Anthem Silver Pathway X HMO 2500,Silver,0.718,Renewing,HMO,Yes,470.3,7926
+Anthem Silver Pathway X HMO 5150,Silver,0.681,New,HMO,Yes,0.0,0
+Anthem Silver Pathway X HMO 5750,Silver,0.681,New,HMO,Yes,0.0,0

@@ -1,14 +1,14 @@
-Plan_Name,Metal,AV,Category,Network,Plan_Adjusted_Index_Rate,Member_Months
-"Anthem Blue Cross and Blue Shield  Gold DirectAccess, a Multi-State Plan",Gold,0.792,Terminated,HMO,565.35,1719
-"Anthem Blue Cross and Blue Shield  Silver DirectAccess, a Multi-State Plan",Silver,0.717,Terminated,HMO,489.74,1662
-Anthem Bronze Pathway X HMO 6250/20%,Bronze,0.619,Terminated,HMO,373.34,10457
-Anthem Gold Mountain Enhanced X HMO 1100/10% ,Gold,0.792,Terminated,HMO,520.2,321
-Anthem Gold Pathway HMO 1100/10%,Gold,0.792,Terminated,HMO,565.35,8045
-Anthem Gold Pathway X HMO 0/30%,Gold,0.78,Terminated,HMO,609.25,1950
-Anthem Gold Pathway X HMO 1500/20%,Gold,0.78,Terminated,HMO,536.52,8552
-Anthem Silver Pathway HMO 2000/20%,Silver,0.717,Terminated,HMO,489.74,1500
-Anthem Silver Pathway HMO 3000/10%,Silver,0.716,Terminated,HMO,464.83,7017
-Anthem Silver Pathway HMO 6100,Silver,0.661,New,HMO,0.0,0
-Anthem Silver Pathway HMO 6200,Silver,0.661,New,HMO,0.0,0
-Anthem Silver Pathway X HMO 2400/10%,Silver,0.716,Terminated,HMO,489.92,2631
-Anthem Silver Pathway X HMO 3200/50%,Silver,0.681,Terminated,HMO,447.26,13523
+Plan_Name,Metal,AV,Category,Network,Exchange,Plan_Adjusted_Index_Rate,Member_Months
+"Anthem Blue Cross and Blue Shield  Gold DirectAccess, a Multi-State Plan",Gold,0.792,Terminated,HMO,No,565.35,1719
+"Anthem Blue Cross and Blue Shield  Silver DirectAccess, a Multi-State Plan",Silver,0.717,Terminated,HMO,No,489.74,1662
+Anthem Bronze Pathway X HMO 6250/20%,Bronze,0.619,Terminated,HMO,No,373.34,10457
+Anthem Gold Mountain Enhanced X HMO 1100/10% ,Gold,0.792,Terminated,HMO,No,520.2,321
+Anthem Gold Pathway HMO 1100/10%,Gold,0.792,Terminated,HMO,No,565.35,8045
+Anthem Gold Pathway X HMO 0/30%,Gold,0.78,Terminated,HMO,No,609.25,1950
+Anthem Gold Pathway X HMO 1500/20%,Gold,0.78,Terminated,HMO,No,536.52,8552
+Anthem Silver Pathway HMO 2000/20%,Silver,0.717,Terminated,HMO,No,489.74,1500
+Anthem Silver Pathway HMO 3000/10%,Silver,0.716,Terminated,HMO,No,464.83,7017
+Anthem Silver Pathway HMO 6100,Silver,0.661,New,HMO,No,0.0,0
+Anthem Silver Pathway HMO 6200,Silver,0.661,New,HMO,No,0.0,0
+Anthem Silver Pathway X HMO 2400/10%,Silver,0.716,Terminated,HMO,No,489.92,2631
+Anthem Silver Pathway X HMO 3200/50%,Silver,0.681,Terminated,HMO,No,447.26,13523
